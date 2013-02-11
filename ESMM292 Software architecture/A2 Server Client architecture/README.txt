@@ -1,0 +1,1 @@
+For installation and running applications instructions please see deticated file in "A2 System" folder.
