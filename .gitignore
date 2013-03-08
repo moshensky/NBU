@@ -41,3 +41,11 @@ Thumbs.db
 ##########################
 bin/
 obj/
+
+# Eclipse Projects #
+####################
+bin/
+.metadata/
+.settings/
+.project
+.classpath
